@@ -5,9 +5,23 @@
     margin-left: 15px;
 }
 
+.body {
+    align-content: top;
+}
+
+.selection {
+
+    padding-right: 15px;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: -20px;
+}
+
 img {
-    height: 400px;
-    width: 400px;
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+    margin-left: 10px;
 }
 
 h1 {
@@ -15,8 +29,14 @@ h1 {
     font-weight: bold;
 }
 
+h3 {
+    
+}
+
 ul {
     list-style-type: none;
+    padding-left: 20px;
+    
 }
 
 ul a {

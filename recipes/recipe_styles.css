@@ -5,6 +5,23 @@
     margin-left: 15px;
 }
 
+.details {
+    display: inline-block;
+    width: auto;
+}
+
+.ingredients {
+    display:inline-block;
+    vertical-align: top;
+    width: 250px;
+}
+
+.method {
+    display:inline-block;
+    vertical-align: top;
+    width: 500px;
+}
+
 img {
     height: 400px;
     width: 400px;
@@ -15,6 +32,10 @@ h1 {
     font-weight: bold;
 }
 
+ul, ol {
+    margin-left: -10px;
+}
+
 a {
     color: blue;
-}
+}c
